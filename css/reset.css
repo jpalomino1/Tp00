@@ -1,0 +1,7 @@
+*{
+    /* esto es resetear todo */
+    margin: 0;
+    padding: 0;
+    /* mantiene las dimensiones originales del contenedor, impide que padding amplie el área declarada*/
+    box-sizing: border-box;
+} 
