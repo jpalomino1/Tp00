@@ -19,18 +19,15 @@ header {
 header h1 {
     font-weight: bold;
 }
-.banner {
-    height: 350px;
-    width: 100%;
-    background-image: url("./img/imagen_disney.png");
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    margin-bottom: 40px;
+.banner{
+height:350px;
+background-image:url("../img/imagen_disney.png");
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
 }
+
+
 .banner h2 { 
     font-size: 50px; 
 }
@@ -48,11 +45,12 @@ header h1 {
     flex-direction: column;
     justify-content: center;
 }
-.img-desc {
-    width: 50%;
-    background-image: url("./img/imagen_descripcion.png");
-    background-size: cover;
-    background-position: center;
+.img-desc{
+height:300px;
+background-image:url("../img/imagen_descripcion.png");
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
 }
 .productos {
     height: 400px;
