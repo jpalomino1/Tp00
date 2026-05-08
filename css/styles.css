@@ -19,17 +19,9 @@ header {
 header h1 {
     font-weight: bold;
 }
-.banner {
-    height: 350px;
-    width: 100%;
-    background-image: url('../img/imagen_descripcion.png');
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    margin-bottom: 40px;
+.banner{
+background:red;
+height:350px;
 }
 .banner h2 { 
     font-size: 50px; 
