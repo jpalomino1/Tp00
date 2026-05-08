@@ -22,7 +22,7 @@ header h1 {
 .banner {
     height: 350px;
     width: 100%;
-    background-image: url("./img/imagen_disney.png");
+    background-image: url('../img/imagen_descripcion.png');
     background-size: cover;
     background-position: center;
     display: flex;
