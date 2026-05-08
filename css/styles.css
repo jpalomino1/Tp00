@@ -22,7 +22,7 @@ header h1 {
 .banner {
     height: 350px;
     width: 100%;
-    background-image: url("./img/imagen_disney.png");
+    background-image: url("/Tp00/img/imagen_disney.png");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -50,7 +50,7 @@ header h1 {
 }
 .img-desc {
     width: 50%;
-    background-image: url("./img/desc.png");
+    background-image: url("/Tp00/img/desc.png");
     background-size: cover;
     background-position: center;
 }
